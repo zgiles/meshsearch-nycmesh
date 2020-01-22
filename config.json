@@ -1,0 +1,29 @@
+{
+  "ListenAddr": ":80",
+  "SaveFile": "save.json",
+  "Verbose": true,
+  "URLFilters": [
+    "\\.mesh/",
+    "10\\.[0-9]+\\.[0-9]+\\.[0-9]+",
+    "nycmesh.net",
+    "docs.nycmesh.net"
+  ],
+  "Seeds": [
+    "http://10.70.132.1/",
+    "http://10.70.132.18:7171/",
+    "http://10.70.132.24/",
+    "http://10.70.132.17/",
+    "http://10.70.74.118/",
+    "http://unms.mesh/",
+    "http://gitlab.mesh/",
+    "http://nycmesh.net/",
+    "http://docs.nycmesh.net/",
+    "http://ebook.mesh",
+    "http://jimsblog.mesh",
+    "http://jim.mesh",
+    "http://mail.mesh",
+    "http://wiki.mesh",
+    "http://scuttle.mesh",
+    "http://nms.mesh"
+  ]
+}
